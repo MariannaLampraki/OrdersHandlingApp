@@ -4,6 +4,7 @@
 #### THIS IS MY ANSWER TO SAID PROMPT AND NOT AN ORIGINAL PROJECT, JUST SOMETHING I DID AND WANT TO INCLUDE HERE
 
 This was a project for the 1st year of university and I wanted to include it because it required ability in file-handling in c and structures handling. This really helped me with my hangman-evolved project, which required file-handling and classes-handling (and classes are similar to structures) in python. If I hadn't solved this problem, I wouldn't have decided to evolve my simple hangman game version to one that handles user accounts and text files. It was one of the first "serious" projects I did as a programmer.
+For this project I used the DevC++ IDE.
 
 ## Prompt
 #### by Kleanthis Thramboulidis
